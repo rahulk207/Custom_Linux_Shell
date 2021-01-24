@@ -2,4 +2,7 @@
 
 Developed a Linux Shell from scratch.
 
-Supporting commands - 
+Supporting commands - ls, cat, mkdir, date, rm with options.
+
+
+
